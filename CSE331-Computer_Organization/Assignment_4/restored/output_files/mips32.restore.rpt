@@ -1,0 +1,133 @@
+Restore Archived Project report for mips32
+Thu Feb 18 10:53:37 2021
+Quartus II 64-Bit Version 13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2013 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Thu Feb 18 10:53:37 2021 ;
+; Revision Name                   ; mips32                                ;
+; Top-level Entity Name           ; mips32                                ;
+; Family                          ; Cyclone III                           ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/Users/Ali/Desktop/Bahar_Ali_171044066.qar' into the 'C:/Users/Ali/Desktop/Bahar_Ali_171044066_restored/' directory
+Info: Generated report 'mips32.restore.rpt'
+Info (23030): Evaluation of Tcl script c:/altera/13.1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus II 64-Bit Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 4421 megabytes
+    Info: Processing ended: Thu Feb 18 10:53:37 2021
+    Info: Elapsed time: 00:00:03
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++---------------------------------------------------+
+; Files Restored                                    ;
++---------------------------------------------------+
+; File Name                                         ;
++---------------------------------------------------+
+; db/mips32.db_info                                 ;
+; incremental_db/compiled_partitions/mips32.db_info ;
+; mips32.qpf                                        ;
+; mips32.qsf                                        ;
+; simulation/modelsim/data_memory.txt               ;
+; simulation/modelsim/instruction_memory.txt        ;
+; simulation/modelsim/registers.txt                 ;
+; src/ALU_Control.v                                 ;
+; src/PC.v                                          ;
+; src/adder_32bit.v                                 ;
+; src/adder_full.v                                  ;
+; src/adder_half.v                                  ;
+; src/alu_1bit.v                                    ;
+; src/alu_32bit.v                                   ;
+; src/and3in.v                                      ;
+; src/and6in.v                                      ;
+; src/and_gate_6in.v                                ;
+; src/control.v                                     ;
+; src/data_memory.v                                 ;
+; src/extender16_32.v                               ;
+; src/instruction_memory.v                          ;
+; src/instruction_separator.v                       ;
+; src/is_branch.v                                   ;
+; src/is_zero32bit.v                                ;
+; src/jr_signal.v                                   ;
+; src/jump_addr.v                                   ;
+; src/lui_helper.v                                  ;
+; src/mips32.v                                      ;
+; src/mips_registers.v                              ;
+; src/mux2_1.v                                      ;
+; src/mux2_32.v                                     ;
+; src/mux4_1.v                                      ;
+; src/mux_2_1_5bit.v                                ;
+; src/my_xor.v                                      ;
+; src/new_instructions.v                            ;
+; src/shift_left2.v                                 ;
+; src/sign_extend16_32.v                            ;
+; src/zero_cmp32bit.v                               ;
+; src/zero_extend16_32.v                            ;
+; testbench_files/ALU_Control_testbench.v           ;
+; testbench_files/adder_32bit_testbench.v           ;
+; testbench_files/alu_1bit_testbench.v              ;
+; testbench_files/alu_32bit_testbench.v             ;
+; testbench_files/control_testbench.v               ;
+; testbench_files/data_memory_testbench.v           ;
+; testbench_files/instruction_memory_testbench.v    ;
+; testbench_files/instruction_separator_testbench.v ;
+; testbench_files/is_branch_testbench.v             ;
+; testbench_files/jr_signal_testbench.v             ;
+; testbench_files/jump_addr_testbench.v             ;
+; testbench_files/lui_helper_testbench.v            ;
+; testbench_files/mips32_testbench.v                ;
+; testbench_files/mips_registers_testbench.v        ;
+; testbench_files/mux_2_1_5bit_testbench.v          ;
+; testbench_files/new_instructions_testbench.v      ;
+; testbench_files/shift_left2_testbench.v           ;
+; testbench_files/sign_extend_testbench.v           ;
+; testbench_files/zero_cmp32bit_testbench.v         ;
+; testbench_files/zero_extend_testbench.v           ;
+; assignment_defaults.qdf                           ;
++---------------------------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+
