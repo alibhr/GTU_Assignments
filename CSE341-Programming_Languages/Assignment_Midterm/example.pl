@@ -1,0 +1,4 @@
+legs(X,2) :- mammal(X), arms(X,2).
+legs(X,4) :- mammal(X), arms(X,0).
+mammal(horse).
+arms(horse,0).

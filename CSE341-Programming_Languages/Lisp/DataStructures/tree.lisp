@@ -1,0 +1,2 @@
+
+(setq *print-case* :capitalize)

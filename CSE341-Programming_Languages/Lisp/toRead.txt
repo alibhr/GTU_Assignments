@@ -1,0 +1,14 @@
+Hello My friend 
+this is a file to be read.    
+
+    
+there is always spaces. .  .    .
+(1 2 3)
+a  a    a  a .
+1 2 3
+1905 
+"Hi"
+19.05
+19,05   
+     
+

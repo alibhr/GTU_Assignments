@@ -1,0 +1,26 @@
+
+(setq *print-case* :capitalize)
+
+(write (setf (get 'books 'title) '(Gone with the Wind)))
+(terpri)
+(write (setf (get 'books 'author) '(Margaret Michel)))
+(terpri)
+(write (setf (get 'books 'publisher) '(Warner Books)))
+(terpri)
+
+(write (get 'books 'title))
+(terpri)
+(write (get 'books 'author))
+(terpri)
+(write (get 'books 'publisher))
+
+(setf (get 'annie 'age) 43)
+(setf (get 'annie 'job) 'accountant)
+(setf (get 'annie 'sex) 'female)
+(setf (get 'annie 'children) 3)
+(terpri)
+(write (symbol-plist 'annie))
+(remprop 'annie 'age)
+(terpri)
+(write (symbol-plist 'annie))
+(terpri)
