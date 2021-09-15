@@ -1,0 +1,999 @@
+297 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+775 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+735 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+734 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+510 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+463 SELECT * FROM_TABLE
+712 SELECT * FROM_TABLE
+4 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+803 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+666 SELECT * FROM_TABLE
+641 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+99 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+565 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+53 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+123 SELECT * FROM_TABLE
+294 SELECT * FROM_TABLE
+331 SELECT * FROM_TABLE
+720 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+13 SELECT * FROM_TABLE
+230 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+182 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+373 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+590 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+514 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+232 SELECT * FROM_TABLE
+966 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+61 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+642 SELECT * FROM_TABLE
+548 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+779 SELECT * FROM_TABLE
+62 SELECT * FROM_TABLE
+34 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+931 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+53 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+977 SELECT * FROM_TABLE
+306 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+716 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+493 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+872 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+128 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+947 SELECT * FROM_TABLE
+993 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+352 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+164 SELECT * FROM_TABLE
+354 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+576 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+329 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+443 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+26 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+258 SELECT * FROM_TABLE
+956 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+552 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+609 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+383 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+659 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+692 SELECT * FROM_TABLE
+369 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+538 SELECT * FROM_TABLE
+358 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+426 SELECT * FROM_TABLE
+503 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+686 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+381 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+584 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+972 SELECT * FROM_TABLE
+657 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+659 SELECT * FROM_TABLE
+222 SELECT * FROM_TABLE
+850 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+801 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+160 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+195 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+540 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+364 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+113 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+415 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+899 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+197 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+174 SELECT * FROM_TABLE
+627 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+913 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+342 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+923 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+625 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+740 SELECT * FROM_TABLE
+577 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+449 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+378 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+12 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+970 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+728 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+600 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+646 SELECT * FROM_TABLE
+865 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+902 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+647 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+95 SELECT * FROM_TABLE
+732 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+567 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+55 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+835 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+623 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+171 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+187 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+729 SELECT * FROM_TABLE
+653 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+282 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+783 SELECT * FROM_TABLE
+551 SELECT * FROM_TABLE
+302 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+604 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+289 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+351 SELECT * FROM_TABLE
+433 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+467 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+802 SELECT * FROM_TABLE
+911 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+322 SELECT * FROM_TABLE
+66 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+394 SELECT * FROM_TABLE
+788 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+234 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+215 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+206 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+192 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+916 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+127 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+126 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+895 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+270 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+245 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+438 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+94 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+930 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+231 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+157 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+362 SELECT * FROM_TABLE
+101 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+568 SELECT * FROM_TABLE
+3 SELECT * FROM_TABLE
+267 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+724 SELECT * FROM_TABLE
+18 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+199 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+348 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+60 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+872 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+47 SELECT * FROM_TABLE
+817 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+459 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+991 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+601 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+81 SELECT * FROM_TABLE
+954 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+627 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+980 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+664 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+38 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+467 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+728 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+51 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+363 SELECT * FROM_TABLE
+976 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+835 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+884 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+488 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+692 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+793 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+937 SELECT * FROM_TABLE
+158 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+556 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+709 SELECT * FROM_TABLE
+65 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+586 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+475 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+912 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+925 SELECT * FROM_TABLE
+68 SELECT * FROM_TABLE
+944 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+493 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+158 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+708 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+70 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+465 SELECT * FROM_TABLE
+513 SELECT * FROM_TABLE
+663 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+603 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+415 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+331 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+539 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+741 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+485 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+157 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+523 SELECT * FROM_TABLE
+47 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+653 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+348 SELECT * FROM_TABLE
+625 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+78 SELECT * FROM_TABLE
+379 SELECT * FROM_TABLE
+1 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+916 SELECT * FROM_TABLE
+44 SELECT * FROM_TABLE
+445 SELECT * FROM_TABLE
+608 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+300 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+243 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+636 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+562 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+32 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+250 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+238 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+957 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+235 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+403 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+84 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+937 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+370 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+567 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+913 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+619 SELECT * FROM_TABLE
+107 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+616 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+783 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+599 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+145 SELECT * FROM_TABLE
+473 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+4 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+481 SELECT * FROM_TABLE
+230 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+523 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+797 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+54 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+310 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+23 SELECT * FROM_TABLE
+833 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+818 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+493 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+515 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+551 SELECT * FROM_TABLE
+887 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+438 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+706 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+964 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+661 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+52 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+749 SELECT * FROM_TABLE
+840 SELECT * FROM_TABLE
+586 SELECT * FROM_TABLE
+151 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+767 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+34 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+367 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+181 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+885 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+981 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+745 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+959 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+28 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+447 SELECT * FROM_TABLE
+258 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+258 SELECT * FROM_TABLE
+907 SELECT * FROM_TABLE
+806 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+600 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+13 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+909 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+470 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+475 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+526 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+561 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+442 SELECT * FROM_TABLE
+816 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+113 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+305 SELECT * FROM_TABLE
+336 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+837 SELECT * FROM_TABLE
+330 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+71 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+811 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+61 SELECT * FROM_TABLE
+923 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+427 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+103 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+261 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+590 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+207 SELECT * FROM_TABLE
+148 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+602 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+629 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+108 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+781 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+962 SELECT * FROM_TABLE
+904 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+792 SELECT * FROM_TABLE
+130 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+295 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+429 SELECT * FROM_TABLE
+623 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+389 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+340 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+36 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+110 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+647 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+304 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+870 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+615 SELECT * FROM_TABLE
+879 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+382 SELECT * FROM_TABLE
+641 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+452 SELECT * FROM_TABLE
+254 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+402 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+777 SELECT * FROM_TABLE
+784 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+798 SELECT * FROM_TABLE
+841 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+361 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+662 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+643 SELECT * FROM_TABLE
+334 SELECT * FROM_TABLE
+770 SELECT * FROM_TABLE
+432 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+452 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+317 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+113 SELECT * FROM_TABLE
+852 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+756 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+966 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+428 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+657 SELECT * FROM_TABLE
+510 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+408 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+186 SELECT * FROM_TABLE
+903 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+770 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+332 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+575 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+728 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+778 SELECT * FROM_TABLE
+920 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+319 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+683 SELECT * FROM_TABLE
+255 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+7 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+179 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+547 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+146 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+455 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+478 SELECT * FROM_TABLE
+134 SELECT * FROM_TABLE
+884 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+758 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+30 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+148 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+559 SELECT * FROM_TABLE
+654 SELECT * FROM_TABLE
+404 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+145 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+451 SELECT * FROM_TABLE
+602 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+920 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+149 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+916 SELECT * FROM_TABLE
+191 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+915 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+773 SELECT * FROM_TABLE
+212 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+801 SELECT * FROM_TABLE
+144 SELECT * FROM_TABLE
+462 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+650 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+505 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+193 SELECT * FROM_TABLE
+955 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+429 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+197 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+224 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+987 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+71 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+11 SELECT * FROM_TABLE
+736 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+24 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+548 SELECT * FROM_TABLE
+792 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+658 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+899 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+277 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+235 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+964 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+788 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+495 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+135 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+539 SELECT * FROM_TABLE
+59 SELECT * FROM_TABLE
+769 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+137 SELECT * FROM_TABLE
+567 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+962 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+273 SELECT * FROM_TABLE
+909 SELECT * FROM_TABLE
+152 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+326 SELECT * FROM_TABLE
+690 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+117 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+430 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+171 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+468 SELECT * FROM_TABLE
+513 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+55 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+736 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+901 SELECT * FROM_TABLE
+716 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+860 SELECT * FROM_TABLE
+60 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+982 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+172 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+853 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+756 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+855 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+243 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+96 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+96 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+479 SELECT * FROM_TABLE
+937 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+731 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+331 SELECT * FROM_TABLE
+139 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+879 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+877 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+523 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+340 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+17 SELECT * FROM_TABLE
+69 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+776 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+455 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+598 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+551 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+691 SELECT * FROM_TABLE
+125 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+109 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+667 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+236 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+441 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+561 SELECT * FROM_TABLE
+825 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+758 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+179 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+712 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+473 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+854 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+447 SELECT * FROM_TABLE
+505 SELECT * FROM_TABLE
+112 SELECT * FROM_TABLE
+840 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+505 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+306 SELECT * FROM_TABLE
+73 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+527 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+103 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+550 SELECT * FROM_TABLE
+229 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+888 SELECT * FROM_TABLE
+341 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+338 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+744 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+767 SELECT * FROM_TABLE
+499 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+55 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+772 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+12 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+605 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+612 SELECT * FROM_TABLE
+533 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+731 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+656 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+903 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+993 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+473 SELECT * FROM_TABLE
+828 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+379 SELECT * FROM_TABLE
+98 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+917 SELECT * FROM_TABLE
+558 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+186 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+273 SELECT * FROM_TABLE
+681 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+967 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+586 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+90 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+308 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+386 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+726 SELECT * FROM_TABLE
+531 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+816 SELECT * FROM_TABLE
+329 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+691 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+527 SELECT * FROM_TABLE
+549 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+218 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+54 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+403 SELECT * FROM_TABLE
+316 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+72 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+46 SELECT * FROM_TABLE
+318 SELECT * FROM_TABLE
+84 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+383 SELECT * FROM_TABLE
+174 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+20 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+852 SELECT * FROM_TABLE
+874 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+931 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+417 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+833 SELECT * FROM_TABLE
+146 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+84 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+986 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+566 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+473 SELECT * FROM_TABLE
+229 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+887 SELECT * FROM_TABLE
+135 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+334 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+62 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+542 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+266 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+71 SELECT * FROM_TABLE
+378 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+738 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+469 SELECT * FROM_TABLE
+785 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+671 SELECT * FROM_TABLE
+294 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+571 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+56 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+549 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+106 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+377 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+491 SELECT * FROM_TABLE
+347 SELECT * FROM_TABLE
+324 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+952 SELECT * FROM_TABLE
+959 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+108 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+205 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+460 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+785 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+585 SELECT * FROM_TABLE
+121 SELECT * FROM_TABLE
+607 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+227 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+440 SELECT * FROM_TABLE
+711 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+453 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+463 SELECT * FROM_TABLE
+214 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+617 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+540 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+695 SELECT * FROM_TABLE
+230 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+389 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+220 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+455 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+739 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+412 SELECT * FROM_TABLE
+337 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+453 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+357 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+321 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+570 SELECT * FROM_TABLE
+176 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+681 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+849 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+337 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+113 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+441 SELECT * FROM_TABLE
+853 SELECT * FROM_TABLE
+39 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+391 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+510 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+383 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+335 SELECT * FROM_TABLE
+298 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+62 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+549 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+521 SELECT * FROM_TABLE
+800 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+703 SELECT * FROM_TABLE
+942 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+799 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+453 SELECT * FROM_TABLE
+659 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+973 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+141 SELECT * FROM_TABLE
+893 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+882 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+758 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+34 SELECT * FROM_TABLE
+740 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+648 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+608 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+188 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+500 SELECT * FROM_TABLE
+621 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+54 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+440 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+989 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+300 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+531 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+671 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+806 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+149 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+964 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+338 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+661 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+926 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+124 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+35 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+399 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+111 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+238 SELECT * FROM_TABLE
+268 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+67 SELECT * FROM_TABLE
+79 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+470 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+866 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+21 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+155 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+933 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+558 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+92 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+299 SELECT * FROM_TABLE
+728 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+220 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+385 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+245 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+481 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+681 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+745 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+700 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+97 SELECT * FROM_TABLE
+171 SELECT * FROM_TABLE
+547 SELECT * FROM_TABLE
+318 SELECT * FROM_TABLE
+332 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+902 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+751 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+229 SELECT * FROM_TABLE
+823 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+75 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+515 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+798 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+56 SELECT * FROM_TABLE
+34 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+294 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+940 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+617 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+869 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+923 SELECT * FROM_TABLE
+915 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+151 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+326 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+784 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+404 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+14 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+789 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+177 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+223 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+453 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+728 SELECT * FROM_TABLE
+372 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+879 SELECT * FROM_TABLE
+711 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+492 SELECT * FROM_TABLE
+684 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+616 SELECT * FROM_TABLE
+165 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+495 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+460 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+412 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+116 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+758 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+154 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+925 SELECT * FROM_TABLE
+669 SELECT * FROM_TABLE
+681 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+154 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+762 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+651 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+362 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+997 SELECT * FROM_TABLE
+372 SELECT * FROM_TABLE
+645 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+520 SELECT * FROM_TABLE
+340 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+486 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+343 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+680 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+766 SELECT * FROM_TABLE
+994 SELECT * FROM_TABLE
+262 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+434 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+654 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+377 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+710 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+120 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+982 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+9 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+472 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+170 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+530 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+272 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+127 SELECT * FROM_TABLE
+346 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+180 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+72 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+489 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+614 SELECT * FROM_TABLE
+952 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+472 SELECT * FROM_TABLE
+524 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+739 SELECT * FROM_TABLE
+539 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+106 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+117 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+207 SELECT * FROM_TABLE
+553 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+632 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+216 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+33 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+781 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+645 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+471 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+403 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+77 SELECT * FROM_TABLE
+460 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+205 SELECT * FROM_TABLE
+717 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+237 SELECT * FROM_TABLE
+256 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+426 SELECT * FROM_TABLE
+921 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+228 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+744 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+976 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+457 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+116 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+996 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+612 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+256 SELECT * FROM_TABLE
+382 SELECT * FROM_TABLE
+324 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+517 SELECT * FROM_TABLE
+623 SELECT * FROM_TABLE
+166 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+953 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+13 SELECT * FROM_TABLE
+228 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+586 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+857 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+593 SELECT * FROM_TABLE
+37 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+493 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+837 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+798 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+677 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+833 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+47 SELECT * FROM_TABLE
+213 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+884 SELECT * FROM_TABLE
+207 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+117 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+469 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+388 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+833 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+363 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+490 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+9 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+638 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+695 SELECT * FROM_TABLE
+555 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+699 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+201 SELECT * FROM_TABLE
+205 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+724 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+748 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+267 SELECT * FROM_TABLE
+620 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+493 SELECT * FROM_TABLE
+445 SELECT * FROM_TABLE
+37 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+763 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+474 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+669 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+407 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+39 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+117 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+75 SELECT * FROM_TABLE
+626 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+455 SELECT * FROM_TABLE
+515 SELECT * FROM_TABLE
+427 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+271 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+273 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+681 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+602 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+846 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+624 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+406 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+684 SELECT * FROM_TABLE
+781 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+383 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+908 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+674 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+150 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+53 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+580 SELECT * FROM_TABLE
+468 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+587 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+443 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+607 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+296 SELECT * FROM_TABLE
+587 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+154 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+674 SELECT * FROM_TABLE
+706 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+361 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+981 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+8 SELECT * FROM_TABLE
+355 SELECT * FROM_TABLE
+187 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+60 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+147 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+950 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+365 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+406 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+440 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+413 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+503 SELECT * FROM_TABLE
+188 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+852 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+701 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+149 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+298 SELECT * FROM_TABLE
+237 SELECT * FROM_TABLE
+283 SELECT * FROM_TABLE
+179 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+891 SELECT * FROM_TABLE
+626 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+937 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+253 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+453 SELECT * FROM_TABLE
+565 SELECT * FROM_TABLE
+213 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+323 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+119 SELECT * FROM_TABLE
+377 SELECT * FROM_TABLE
+526 SELECT * FROM_TABLE
+78 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+914 SELECT * FROM_TABLE
+199 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+936 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+869 SELECT * FROM_TABLE
+617 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+423 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+184 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+575 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+676 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+725 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+802 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+164 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+794 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+608 SELECT * FROM_TABLE
+603 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+971 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+652 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+910 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+738 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+932 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+176 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+500 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+818 SELECT * FROM_TABLE
+149 SELECT * FROM_TABLE
+664 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+739 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+237 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+56 SELECT * FROM_TABLE
+60 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+304 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+293 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+57 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+522 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+923 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+309 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+623 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+77 SELECT * FROM_TABLE
+748 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+952 SELECT * FROM_TABLE
+494 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+396 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+913 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+670 SELECT * FROM_TABLE
+8 SELECT * FROM_TABLE
+108 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+335 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+778 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+934 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+313 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+379 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+821 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+860 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+525 SELECT * FROM_TABLE
+426 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+179 SELECT * FROM_TABLE
+7 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+706 SELECT * FROM_TABLE
+795 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+770 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+191 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+767 SELECT * FROM_TABLE
+936 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+6 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+955 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+910 SELECT * FROM_TABLE
+217 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+16 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+281 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+285 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+535 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+853 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+521 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+643 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+456 SELECT * FROM_TABLE
+917 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+731 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+996 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+254 SELECT * FROM_TABLE
+591 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+27 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+687 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+526 SELECT * FROM_TABLE
+291 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+571 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+257 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+406 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+170 SELECT * FROM_TABLE
+54 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+794 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+213 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+252 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+132 SELECT * FROM_TABLE
+274 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+955 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+251 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+86 SELECT * FROM_TABLE
+641 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+832 SELECT * FROM_TABLE
+738 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+676 SELECT * FROM_TABLE
+833 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+486 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+689 SELECT * FROM_TABLE
+237 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+695 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+613 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+845 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+97 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+523 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+400 SELECT * FROM_TABLE
+325 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+173 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+857 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+208 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+829 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+170 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+21 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+16 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+380 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+880 SELECT * FROM_TABLE
+821 SELECT * FROM_TABLE
+873 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+648 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+656 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+839 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+555 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+776 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+728 SELECT * FROM_TABLE
+780 SELECT * FROM_TABLE
+11 SELECT * FROM_TABLE
+124 SELECT * FROM_TABLE
+51 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+309 SELECT * FROM_TABLE
+16 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+51 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+564 UPDATE TABLE SET columnName1='value1',columnName2='value2 WHERE columnName='valuex'
+922 SELECT DISTINCT columnName1, columnName2 FROM_TABLE;
+910 SELECT columnName1, columnName2, columnName3 FROM FROM_TABLE;
+872 SELECT * FROM_TABLE

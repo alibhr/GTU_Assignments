@@ -1,0 +1,72 @@
+01-28-07 -:Executing with parameters:
+01-28-07 -:
+-p 8000
+-o pathToLogFile
+-l 4
+-d dataset.csv
+01-28-07 -:Loading dataset...
+01-28-07 -:Dataset loaded in 0.01 seconds with 31 records.
+01-28-07 -:A pool of 4 threads has been created
+01-28-07 -:Thread #1: waiting for connection
+01-28-07 -:Thread #3: waiting for connection
+01-28-07 -:Thread #2: waiting for connection
+01-28-07 -:Thread #4: waiting for connection
+01-28-31 -:A connection has been delegated to thread id #4
+01-28-31 -:A connection has been delegated to thread id #2
+01-28-31 -:A connection has been delegated to thread id #3
+01-28-31 -:Thread #4: received query 'SELECT Numeric FROM_TABLE;'
+01-28-31 -:A connection has been delegated to thread id #1
+01-28-31 -:No thread is available! Waiting…
+01-28-31 -:Thread #2: received query 'SELECT Numeric FROM_TABLE;'
+01-28-31 -:Thread #3: received query 'SELECT Numeric FROM_TABLE;'
+01-28-31 -:Thread #1: received query 'SELECT Numeric FROM_TABLE;'
+01-28-31 -:Thread #3: query completed, 32 records have been returned.
+01-28-31 -:Thread #3: received query 'SELECT * FROM FROM_TABLE;'
+01-28-31 -:Thread #2: query completed, 32 records have been returned.
+01-28-31 -:Thread #4: query completed, 32 records have been returned.
+01-28-31 -:Thread #1: query completed, 32 records have been returned.
+01-28-31 -:Thread #4: received query 'SELECT * FROM FROM_TABLE;'
+01-28-31 -:Thread #2: received query 'SELECT * FROM FROM_TABLE;'
+01-28-31 -:Thread #1: received query 'SELECT * FROM FROM_TABLE;'
+01-28-32 -:Thread #3: query completed, 32 records have been returned.
+01-28-32 -:Thread #4: query completed, 32 records have been returned.
+01-28-32 -:Thread #2: query completed, 32 records have been returned.
+01-28-32 -:Thread #2: received query 'UPDATE TABLE SET Numeric='updated', Numeric-Suffix='updated' WHERE Numeric-2='02''
+01-28-32 -:Thread #3: received query 'UPDATE TABLE SET Numeric='updated', Numeric-Suffix='updated' WHERE Numeric-2='03''
+01-28-32 -:Thread #1: query completed, 32 records have been returned.
+01-28-32 -:Thread #4: received query 'UPDATE TABLE SET Numeric='updated', Numeric-Suffix='updated' WHERE Numeric-2='01''
+01-28-32 -:Thread #3: received query 'SELECT Numeric,Numeric-2,Numeric-Suffix FROM FROM_TABLE;'
+01-28-32 -:Thread #2: received query 'SELECT Numeric,Numeric-2,Numeric-Suffix FROM FROM_TABLE;'
+01-28-32 -:Thread #1: received query 'UPDATE TABLE SET Numeric='updated', Numeric-Suffix='updated' WHERE Numeric-2='04''
+01-28-32 -:Thread #4: received query 'SELECT Numeric,Numeric-2,Numeric-Suffix FROM FROM_TABLE;'
+01-28-32 -:Thread #3: query completed, 32 records have been returned.
+01-28-32 -:Thread #2: query completed, 32 records have been returned.
+01-28-32 -:Thread #1: received query 'SELECT Numeric,Numeric-2,Numeric-Suffix FROM FROM_TABLE;'
+01-28-32 -:Thread #3: waiting for connection
+01-28-32 -:No thread is available! Waiting…
+01-28-32 -:A connection has been delegated to thread id #3
+01-28-32 -:Thread #2: waiting for connection
+01-28-32 -:Thread #3: received query 'SELECT Numeric FROM_TABLE;'
+01-28-32 -:A connection has been delegated to thread id #2
+01-28-32 -:Thread #2: received query 'SELECT Numeric FROM_TABLE;'
+01-28-33 -:Thread #4: query completed, 32 records have been returned.
+01-28-33 -:Thread #1: query completed, 32 records have been returned.
+01-28-33 -:Thread #1: waiting for connection
+01-28-33 -:Thread #4: waiting for connection
+01-28-33 -:Thread #3: query completed, 32 records have been returned.
+01-28-33 -:Thread #2: query completed, 32 records have been returned.
+01-28-33 -:Thread #3: received query 'SELECT * FROM FROM_TABLE;'
+01-28-33 -:Thread #2: received query 'SELECT * FROM FROM_TABLE;'
+01-28-33 -:Thread #3: query completed, 32 records have been returned.
+01-28-33 -:Thread #2: query completed, 32 records have been returned.
+01-28-33 -:Thread #3: received query 'UPDATE TABLE SET Numeric='updated', Numeric-Suffix='updated' WHERE Numeric-2='05''
+01-28-33 -:Thread #2: received query 'UPDATE TABLE SET Numeric='updated', Numeric-Suffix='updated' WHERE Numeric-2='06''
+01-28-33 -:Thread #2: received query 'SELECT Numeric,Numeric-2,Numeric-Suffix FROM FROM_TABLE;'
+01-28-33 -:Thread #3: received query 'SELECT Numeric,Numeric-2,Numeric-Suffix FROM FROM_TABLE;'
+01-28-34 -:Thread #3: query completed, 32 records have been returned.
+01-28-34 -:Thread #2: query completed, 32 records have been returned.
+01-28-34 -:Thread #3: waiting for connection
+01-28-34 -:Thread #2: waiting for connection
+01-28-47 -:Termination signal received, waiting for ongoing threads to complete.
+01-28-47 -:All threads have terminated, server shutting down.
+01-28-47 -:total number of handled query: 24
