@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"DataStructureHW5_Q1"},{"l":"DataStructureHW5_Q2"},{"l":"DataStructureHW5_Q3"},{"l":"DataStructureHW5_Q4"}]

@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"_GTU__HW_8_","l":"GTUContainer"},{"p":"_GTU__HW_8_","l":"GTUIterator"},{"p":"_GTU__HW_8_","l":"GTUSet"},{"p":"_GTU__HW_8_","l":"GTUVector"},{"p":"<Unnamed>","l":"Main"}]
